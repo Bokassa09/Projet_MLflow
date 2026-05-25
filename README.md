@@ -19,7 +19,7 @@ avec MLflow pour choisir le meilleur modèle de façon rigoureuse et reproductib
 
 ## Pipeline MLflow complet
 
-## Expériences réalisées — 7 Runs
+## Expériences réalisées : 7 Runs
 
 NB: Pour voir le tableau de comparaison des 7 runs, allez dans le dossier figures et regardez l’image mlflow_ui_comparaison_des_3_modeles.png, qui provient directement de l’interface MLflow UI
 
@@ -78,4 +78,4 @@ Ce projet est la suite naturelle de :
 
 [Breast Cancer API](https://github.com/Bokassa09/breast-cancer-api)
 
-— déploiement FastAPI + Docker + SQLite + Hugging Face Spaces
+déploiement FastAPI + Docker + SQLite + Hugging Face Spaces

@@ -55,7 +55,7 @@ client.set_registered_model_tag(
     value="breast-cancer"
 )
 
-print(f"\nModèle prêt dans le Registry !")
+print(f"\nModèle prêt dans le Registry")
 print(f"   Nom     : {model_name}")
 print(f"   Version : {registered_model.version}")
 
