@@ -1,4 +1,4 @@
-# Breast Cancer Classifier — MLflow Experiment Tracking
+# Breast Cancer Classifier : MLflow Experiment Tracking
 
 Projet de comparaison de modèles ML avec tracking complet via MLflow.
 Extension du projet [Breast Cancer API](https://github.com/Bokassa09/breast-cancer-api)
@@ -28,7 +28,7 @@ NB: Pour voir le tableau de comparaison des 7 runs, allez dans le dossier figure
 **Run 2 — Self-Training + Logistic Regression ElasticNet**
 
 Choisi selon le **Recall** (métrique prioritaire en médecine) :
-- Recall = 100% → zéro cancer raté
+- Recall = 100% zéro cancer raté
 - Enregistré en Production dans le MLflow Model Registry
 
 > En médecine, rater un vrai cancer (faux négatif) est bien plus grave
